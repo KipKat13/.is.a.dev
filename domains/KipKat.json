@@ -1,1 +1,12 @@
-
+{
+    "description": "Will be used as a subdomain for general testing purposes.",
+    "repo": "https://github.com/<KipKat13>/<KipKat13>.github.io",
+    "owner": {
+        "username": "<KipKat13>",
+        "email": "ballade.faience0h@icloud.com",
+        "twitter": "<KipKat>"
+    },
+    "record": {
+        "CNAME": "<KipKat13>.github.io"
+    }
+} 
